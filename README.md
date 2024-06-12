@@ -1,5 +1,4 @@
 <img src="./profile_banner-2.png" align = "center">
-<br></br>
 <h1 align="center">Hi 👋, I'm Shivanand Prajapati</h1>
 <h3 align="center">A Passionate Front-End Web Developer And Aspiring Full-Stack Developer</h3>
 <!-- 
